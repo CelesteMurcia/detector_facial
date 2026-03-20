@@ -1,5 +1,5 @@
 # detector_facial
-Sistema de reconocimiento facial de expresiones para niños
+***Sistema de reconocimiento facial de expresiones para niños***
 
 Instalación
 1. Instalar Python 3.11 desde python.org
