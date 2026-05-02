@@ -29,7 +29,24 @@ Descomprimir el archivo `.zip` en cualquier carpeta de la computadora.
 ---
 
 ## 3. Abrir la terminal
-Entrar a la carpeta del proyecto:
+Entrar a la carpeta del proyecto: `cd ruta\donde\descomprimio\detector_facial`
 
-```bash
-cd ruta\donde\descomprimio\detector_facial
+---
+
+## 4. Crear entorno virtual
+Comando: `py -3.11 -m venv venv 
+
+---
+
+## 5. Activarlo
+Activarlo desde la terminal con: venv\Scripts\activate
+
+--
+
+## 5. Librerias
+Instalar todas la librerias automaticamente: `pip install -requirements.txt`
+
+--
+
+## 6. Final
+En la terminal correr el proyecto: `python main.py`
