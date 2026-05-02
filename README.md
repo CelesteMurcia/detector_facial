@@ -41,12 +41,12 @@ Comando: `py -3.11 -m venv venv
 ## 5. Activar entorno virtual
 Activarlo desde la terminal con: venv\Scripts\activate
 
---
+---
 
 ## 6. Instalar dependencias
 Instalar todas la librerias automaticamente: `pip install -requirements.txt`
 
---
+---
 
-## 6. Ejecutar el proyecto
+## 7. Ejecutar el proyecto
 En la terminal correr el proyecto: `python main.py`
